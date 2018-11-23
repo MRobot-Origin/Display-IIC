@@ -1,7 +1,7 @@
 {
     "name": "MRobot",
-    "version": "0.0.0",
-    "description": "car",
+    "version": "1.0.0",
+    "description": "MRobot-Origin",
     "dependencies": {
         "core": "*",
         "radio": "*"
