@@ -1,8 +1,5 @@
 /**
 * makecode BMP180 digital pressure sensor Package.
-*/
-
-/**
  * BMP180 block
  */
 namespace MRobot {
