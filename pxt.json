@@ -10,7 +10,9 @@
         "README.md",
         "namepace.ts",
         "lcd1602.ts",
-        "oled12864.ts"
+        "oled12864.ts",
+        "Pin.ts",
+        "Ultrasonic.ts"
     ],
     "testFiles": [
         "test.ts"
