@@ -74,7 +74,7 @@ enum Lcd1602Position {
 }
 /////////////////////////////////////////////////////////////////////////////////
     // blocks supporting a I2C_LCD_1602、IIC_OLED_12864
-    //% weight=20 color=#0855AB icon="O" block="显示模组"
+    //% weight=20 color=#0855AB icon="O" block="IIC器件"
 namespace MRobot {
 /*LCD1602显示屏IIC接口驱动程序*/
     const enum Lcd1602 {

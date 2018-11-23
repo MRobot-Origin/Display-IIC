@@ -5,7 +5,6 @@
 /**
  * BMP180 block
  */
-//% weight=100 color=#30A0C0 icon="\uf042" block="BMP180气压传感器"
 namespace MRobot {
     let BMP180_I2C_ADDR = 0x77;
 
@@ -91,6 +90,7 @@ namespace MRobot {
     /**
      * get temperature
      */
+    //% subcategory="BMP180气压传感器"
     //% blockId="BMP180_GET_TEMPERATURE" block="温度(℃)"
     //% weight=80 blockGap=8
     export function temperature(): number {
@@ -100,6 +100,7 @@ namespace MRobot {
     /**
      * get pressure
      */
+    //% subcategory="BMP180气压传感器"
     //% blockId="BMP180_GET_PRESSURE" block="气压(Pa)"
     //% weight=80 blockGap=8
     export function press(): number {
