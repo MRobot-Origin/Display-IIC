@@ -12,7 +12,8 @@
         "lcd1602.ts",
         "oled12864.ts",
         "Pin.ts",
-        "Ultrasonic.ts"
+        "Ultrasonic.ts",
+        "BMP180.ts"
     ],
     "testFiles": [
         "test.ts"
