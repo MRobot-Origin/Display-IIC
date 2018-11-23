@@ -8,7 +8,6 @@
     },
     "files": [
         "README.md",
-        "MRobot.ts",
         "namepace.ts",
         "lcd1602.ts",
         "oled12864.ts"
