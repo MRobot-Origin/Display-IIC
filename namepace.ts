@@ -6,3 +6,8 @@
 namespace MRobot {
 
 }
+//% color=#9966FF icon="\uf1b9" block="MRobot"
+//% category="Smartcar"
+namespace Smartcar{
+
+}
